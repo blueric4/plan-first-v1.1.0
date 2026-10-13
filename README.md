@@ -1,4 +1,6 @@
-# Plan First（先报批，后动手）
+# Plan First v1.1（先报批，后动手）
+
+主要更新：六条干活原则
 
 > Approval-gated execution for AI assistants: stay read-only and keep planning until the user explicitly says **开干** (go).
 
